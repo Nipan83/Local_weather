@@ -1,0 +1,26 @@
+
+.weather{
+  margin:.8% auto auto auto;
+  color:#fff;
+  
+}
+
+*{
+margin:-3px;
+padding:-3px;
+}
+.place{
+  background-color:#090958;
+}
+body{
+ font-weight:normal;
+background-color:#1E1E80;
+  font-family:Gloria Hallelujah;
+}
+#temp{
+  font-size:200px;
+  font-weight:100;
+}
+#add{
+  font-size:20px;
+}
